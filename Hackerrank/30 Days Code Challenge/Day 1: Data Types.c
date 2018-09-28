@@ -1,0 +1,10 @@
+int m;
+double n;
+char o[100];
+scanf("%d",&m);
+scanf("%lf",&n);
+scanf(" %[^\n]", o);
+printf("%d\n",m+i);
+printf("%.1lf\n",d+n);
+printf("%s",s);
+printf("%s",o);
